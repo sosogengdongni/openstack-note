@@ -1,2 +1,6 @@
+---
+description: nova-note
+---
+
 # nova
 
